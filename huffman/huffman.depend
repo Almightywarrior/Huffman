@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1724302280 source:c:\users\hp\desktop\hufman\huffman\main.cpp
+	<bits/stdc++.h>
+	<map>
+	<string>
+	<fstream>
+	<bitset>
+
